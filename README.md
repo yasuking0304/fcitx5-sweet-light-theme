@@ -13,13 +13,13 @@
  ## Install
 
  ```
-git clone https://github.com/yasuking0304/fcitx5-sweet-dark-theme.git ~/.local/share/fcitx5/themes/fcitx5-sweet-dark-theme
+git clone https://github.com/yasuking0304/fcitx5-sweet-light-theme.git ~/.local/share/fcitx5/themes/fcitx5-sweet-light-theme
 ```
 
 and
 
 ```
-Settings -> Locales -> Input Method -> Setting AddOn -> Classic UI Interface -> Change Theme to "Sweet Dark"
+Settings -> Locales -> Input Method -> Setting AddOn -> Classic UI Interface -> Change Theme to "Sweet Light"
 ```
 日本人向け(KDEシステム設定の場合)
 ```
